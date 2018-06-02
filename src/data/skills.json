@@ -1,0 +1,103 @@
+{
+	"name": "Skills List",
+
+	"list": [
+
+		{
+			"id": 1,
+
+			"name": "HTML5"
+		},
+
+		{
+			"id": 2,
+
+			"name": "Javascript"
+		},
+
+		{
+			"id": 3,
+
+			"name": "CSS3"
+		},
+
+		{
+			"id": 4,
+
+			"name": "PHP"
+		},
+
+		{
+			"id": 5,
+
+			"name": "MySQL"
+		},
+
+		{
+			"id": 6,
+
+			"name": "jQuery"
+		},
+
+		{
+			"id": 7,
+
+			"name": "ECMAScript 2017"
+		},
+
+		{
+			"id": 8,
+
+			"name": "SASS/SCSS"
+		},
+
+		{
+			"id": 9,
+
+			"name": "GulpJS"
+		},
+
+		{
+			"id": 10, 
+
+			"name": "ReactJS"
+		},
+
+		{
+			"id": 11,
+
+			"name": "VueJS"
+		},
+
+		{
+			"id": 12,
+
+			"name": "NodeJS"
+		},
+
+		{
+			"id": 13,
+
+			"name": "Express"
+		},
+
+		{
+			"id": 14,
+
+			"name": "Laravel"
+		},
+
+		{
+			"id": 15,
+
+			"name": "Wordpress"
+		},
+
+		{
+			"id": 16,
+
+			"name": "And More..."
+		}
+
+	]
+}
